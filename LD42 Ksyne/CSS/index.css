@@ -1,0 +1,506 @@
+body {
+    background-color:black;
+
+}
+#startButton {
+
+    text-decoration: none;
+    position: absolute;
+    top: 370px;
+    left: 549px;
+    padding: 10px 10px 10px 10px;
+
+    height: 40px;
+    width: 120px;
+    text-align: center;
+    font-size: 50px;    
+}
+#startScreenDiv {
+
+    background: url("../Game Pics/gameTitle.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;    
+}
+#sceneOneDiv {
+
+    background: url("../Game Pics/sceneOne.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;    
+}
+#sceneOneButton1 {
+
+    text-decoration: none;
+    position: absolute;
+    top: 370px;
+    left: 410px;
+    padding: 10px 10px 10px 10px;
+
+    height: 23px;
+    width: 250px;
+    text-align: center; 
+}
+#sceneOneButton2 {
+
+    text-decoration: none;
+    position: absolute;
+    top: 425px;
+    left: 410px;
+    padding: 10px 10px 10px 10px;
+
+    height: 23px;
+    width: 225px;    
+}
+#sceneTwoDiv {
+
+    background: url("../Game Pics/sceneTwo.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px; 
+}
+#sceneTwoButton {
+
+    text-decoration: none;
+    position: absolute;
+    top: 366px;
+    left: 550px;
+    padding: 10px 10px 10px 10px;
+
+    height: 23px;
+    width: 130px;
+}
+#sceneThreeDiv {
+
+    background: url("../Game Pics/sceneThree.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}
+#sceneThreeButton {
+
+    text-decoration: none;
+    position:absolute;
+    top: 383px;
+    left: 570px;
+    padding: 10px 10px 10px 10px;
+    
+    height: 20px;
+    width: 70px;
+}
+#sceneFourDiv {
+
+    background: url("../Game Pics/sceneFour.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}
+#sceneFourButton {
+
+    text-decoration: none;
+    position: absolute;
+    top: 423px;
+    left: 595px;
+    padding: 10px 10px 10px 10px;
+
+    height: 20px;
+    width: 70px;
+}
+#sceneFiveDiv {
+
+    background: url("../Game Pics/sceneFive.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}
+#sceneFiveButton{
+
+    text-decoration: none;
+    position: absolute;
+    top: 429px;
+    left: 585px;
+    padding: 10px 10px 10px 10px;
+
+    height: 20px;
+    width: 70px;
+}
+#sceneSixDiv {
+
+    background: url("../Game Pics/sceneSix.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}
+#sceneSixButton {
+
+    text-decoration: none;
+    position: absolute;
+    top: 409px;
+    left: 585px;
+    padding: 10px 10px 10px 10px;
+
+    height: 20px;
+    width: 70px;
+}
+#sceneSevenDiv {
+
+    background: url("../Game Pics/sceneSeven.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}
+#sceneSevenButton {
+
+    text-decoration: none;
+    position: absolute;
+    top: 380px;
+    left: 400px;
+    padding: 10px 10px 10px 10px;
+
+    height: 20px;
+    width: 277px;
+}
+#sceneSevenButton2 {
+
+    text-decoration: none;
+    position: absolute;
+    top: 424px;
+    left: 400px;
+    padding: 10px 10px 10px 10px;
+
+    height: 20px;
+    width: 167px;
+}
+#sceneEightDiv {
+
+    background: url("../Game Pics/sceneEight.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}
+#sceneEightButton {
+
+    text-decoration: none;
+    position: absolute;
+    top: 424px;
+    left: 400px;
+    padding: 10px 10px 10px 10px;
+
+    height: 18px;
+    width: 275px;
+}
+#sceneEightButton2 {
+
+    text-decoration: none;
+    position: absolute;
+    top: 380px;
+    left: 400px;
+    padding: 10px 10px 10px 10px;
+
+    height: 18px;
+    width: 227px;
+}
+#sceneNineDiv {
+
+    background: url("../Game Pics/sceneNine.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}
+#sceneNineButton {
+
+    text-decoration: none;
+    position: absolute;
+    top: 397px;
+    left: 400px;
+    padding: 10px 10px 10px 10px;
+
+    height: 18px;
+    width: 295px;
+}
+#sceneNineButton2 {
+
+    text-decoration: none;
+    position: absolute;
+    top: 353px;
+    left: 400px;
+    padding: 10px 10px 10px 10px;
+
+    height: 18px;
+    width: 347px;
+}
+#sceneTenDiv {
+
+    background: url("../Game Pics/sceneTen.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}
+#sceneTenButton {
+
+    text-decoration: none;
+    position: absolute;
+    top: 357px;
+    left: 420px;
+    padding: 10px 10px 10px 10px;
+
+    height: 18px;
+    width: 385px;
+
+}
+#sceneTenButton2 {
+
+    text-decoration: none;
+    position: absolute;
+    top: 403px;
+    left: 417px;
+    padding: 10px 10px 10px 10px;
+
+    height: 18px;
+    width: 387px;
+}
+#sceneElevenDiv {
+
+    background: url("../Game Pics/sceneEleven.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}
+#sceneElevenButton {
+
+    text-decoration: none;
+    position: absolute;
+    top: 397px;
+    left: 400px;
+    padding: 10px 10px 10px 10px;
+
+    height: 18px;
+    width: 295px;
+}
+#sceneElevenButton2 {
+
+    text-decoration: none;
+    position: absolute;
+    top: 353px;
+    left: 400px;
+    padding: 10px 10px 10px 10px;
+
+    height: 18px;
+    width: 347px;
+}
+#sceneTwelveDiv {
+
+    background: url("../Game Pics/sceneTwelve.png") no-repeat;
+    height: 388px;
+    width:474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}
+#sceneTwelveButton {
+
+    text-decoration: none;
+    position: absolute;
+    top: 383px;
+    left: 567px;
+    padding: 10px 10px 10px 10px;
+
+    height: 18px;
+    width: 100px;
+}
+#sceneThirteenDiv {
+
+    background: url("../Game Pics/sceneThirteen.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}
+
+#sceneThirteenButton {
+
+    text-decoration: none;
+    position: absolute;
+    top: 413px;
+    left: 567px;
+    padding: 10px 10px 10px 10px;
+
+    height: 18px;
+    width: 100px;
+}
+#sceneFourteenDiv {
+
+    background: url("../Game Pics/sceneFourteen.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}
+#sceneFourteenButton {
+
+    text-decoration: none;
+    position: absolute;
+    top: 382px;
+    left: 468px;
+    padding: 10px 10px 10px 10px;
+
+    height: 18px;
+    width: 87px;
+}
+#sceneFourteenButton2 {
+
+    text-decoration: none;
+    position: absolute;
+    top: 430px;
+    left: 470px;
+    padding: 10px 10px 10px 10px;
+    height: 18px;
+    width: 187px;
+}
+#sceneFifteenDiv {
+
+    background: url("../Game Pics/sceneFifteen.png");
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}
+#sceneFifteenButton {
+
+    text-decoration: none;
+    position: absolute;
+    top: 415px;
+    left: 525px;
+    padding: 10px 10px 10px 10px;
+    height: 18px;
+    width: 107px; 
+}
+#sceneSixteenDiv {
+
+    background: url("../Game Pics/sceneSixteen.png");
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}
+
+#sceneSixteenButton {
+
+    text-decoration: none;
+    position: absolute;
+    top: 382px;
+    left: 508px;
+    padding: 10px 10px 10px 10px;
+
+    height: 18px;
+    width: 217px;
+}
+#sceneSixteenButton2 {
+
+    text-decoration: none;
+    position: absolute;
+    top: 430px;
+    left: 513px;
+    padding: 10px 10px 10px 10px;
+
+    height: 18px;
+    width: 147px;
+}
+
+#sceneSeventeenDiv {
+
+    background: url("../Game Pics/sceneSeventeen.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}
+#sceneSeventeenButton {
+
+    text-decoration: none;
+    position: absolute;
+    top: 415px;
+    left: 593px;
+    padding: 10px 10px 10px 10px;
+
+    height: 18px;
+    width: 50px;
+}
+#sceneEighteenDiv {
+
+    background: url("../Game Pics/sceneEighteen.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}
+#sceneEighteenButton {
+    
+    text-decoration: none;
+    position: absolute;
+    top: 415px;
+    left: 593px;
+    padding: 10px 10px 10px 10px;
+
+    height: 18px;
+    width: 50px;
+}
+#sceneNineteenDiv {
+
+    background: url("../Game Pics/sceneNineteen.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}
+#sceneNineteenButton {
+
+    text-decoration: none;
+    position: absolute;
+    top: 365px;
+    left: 593px;
+    padding: 10px 10px 10px 10px;
+
+    height: 18px;
+    width: 50px;
+}
+#sceneTwentyDiv {
+
+    background: url("../Game Pics/sceneTwenty.png") no-repeat;
+    height: 388px;
+    width: 474px;
+    position: absolute;
+    top: 90px;
+    left: 390px;
+}

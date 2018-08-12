@@ -1,0 +1,52 @@
+Story:
+	Scene 15:
+		You pull the trigger of your plasma rifle, doing your utter best in stopping it from recoiling in your face. The Bazat, with a
+		big hole in it's chest fell to the ground. You feel a stabbing pain in your leg. You're feeling woozy. As the world fades to 
+		black, you see an axe plummeting towards your face.
+
+		-Game Over-
+		-Restart-
+
+	Scene 16:
+		"Tell me what your elders are planning," you say fiercly. "Or you WILL lose your head." All mockery had left the creature's face.
+		He appeared..... afraid. Terrified, in fact. He was shivering, almost in tears with fear. "O-o-ok!" the creature says, it's voice 
+		trembling. "We discovered where dead aliens and creatures go in their next life. We want to go there, but we don't have enough
+		resources, and it costs a lot to get them. So we've st-st-stolen goblainium and trisanium, and m-m-m-more, to be able to afford 
+		such materials."
+
+		-Question More-
+		-Let him go-
+
+	Scene 17:
+		'Where is this place?' you demand, keeping a fierce tone. "Past Jupiter in the human beans' side, straight for 200 lightyears.
+		The human beans' side? What else are the Bazats planning? "You want to colonise the humans, don't you?" No reply. "You creatures
+		are disgusting." you shoot the Bazat, jump in your ship, and head towards the G.U.L. (Galactic Universal Library) You find only
+		one book about life after death. You decide to keep it. After some time at the G.U.L you fly to a gravity sation for the last 
+		time ever. "My family," you think. "They'll be there." All the Minirs will be there! You were really excited. After filling up,
+		you head towards the human beans' side of the universe.
+	
+		-Next-
+
+	Scene 18: 
+		"Go. And never come into my sight again." you say. The Bazat lunges forwards, in a desperate attempt to be on the other side 
+		of the gun. You shot him beore he could get halfway. "I gave him a chance." you say. Next stop, the G.U.L.
+		(Galactic Universal Library) You find one book about life after death. Accoording to the book, this.... PLACE, was behind Jupiter,
+		and about 200 lightyears straight. "My family," you think. "They'll be there. All the Minirs will be there!" you fill up on 
+		gravity and power, and begin your journey.
+
+		-Next-
+
+	Scence
+
+	Scence 19:
+		You've been travelling for what seems like years, when at last, you reach the human beans' side of the universe. Time to go 
+		hyperspeed.... You turn on your hyperspeed engine, disengaging the manual one. It'll only nee to be a few seconds. The ship 
+		lurches forward, and after 5 seconds, you engage your manual engine again. But wait, somethings wrong. There's something 
+		like a cliff ring at the edge of this side. "The Edge of Space!" you exclaim. You're panicking. "No, no, no, no! Stop! STOP!"
+
+		-NEXT-
+
+	Scene 20:
+		As you near the edge, think of all the things you wanted to say, do, ask, and even see, when you finally say your family again.
+		Now, it doesn't matter. Space is running out. Ten seconds to the end of space. "NO!!!!!!" your scream is but a meer echo inspace,
+		as you plumetted. As you ran out of space.
